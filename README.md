@@ -20,9 +20,6 @@ Applications
 
 This project has significant implications for early detection of eye diseases, aiding in timely diagnosis and treatment, especially in areas where medical resources are limited.
 
-Demonstration -
-
-Screenshot 2024-09-08 at 5 22 10 PM
 References -
 
 https://www.kaggle.com/datasets/gunavenkatdoddi/eye-diseases-classification
